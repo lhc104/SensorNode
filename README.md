@@ -1,3 +1,3 @@
 # SensorNode
 
-Bitstream File Name: [ (U.C. Platform)_(Direction)_(Bandwidth)_(Opt.) ]
+Bitstream File Name: [ (Platform Type)_(Direction)_(Bandwidth)_(Opt.) ]
